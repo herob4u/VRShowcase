@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Anim_StateButton
+  m_Controller: {fileID: 9100000, guid: 496fc7ff8f5eece4aba879b4db3a99fe, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f32d11cb734c3814eb095c564f6347e2, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: f32d11cb734c3814eb095c564f6347e2, type: 3}
+  - m_OriginalClip: {fileID: 7400004, guid: f32d11cb734c3814eb095c564f6347e2, type: 3}
+    m_OverrideClip: {fileID: 7400004, guid: f32d11cb734c3814eb095c564f6347e2, type: 3}
+  - m_OriginalClip: {fileID: 7400002, guid: f32d11cb734c3814eb095c564f6347e2, type: 3}
+    m_OverrideClip: {fileID: 7400002, guid: f32d11cb734c3814eb095c564f6347e2, type: 3}
