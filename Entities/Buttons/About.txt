@@ -1,0 +1,4 @@
+All Button entities are usable objects that trigger an OnButtonClick event.
+Derived classes from BaseButton carry the exact same implementation, but are
+animated differently. Hence, it is advisable to only override the OnUseAnimationHandler function alongside
+basic initialization in the Start method.
